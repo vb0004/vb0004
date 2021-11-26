@@ -8,7 +8,7 @@ I'm a software scholar passionate about making contributions to open source more
 - Learning in public on <a href="https://vb0004.github.io">vb0004.github.io</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/vb0004"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/febry-ambar-panuntun-61a88461//">LinkedIn</a> 💼
-
+<br>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
 	<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
