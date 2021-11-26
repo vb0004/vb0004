@@ -5,6 +5,7 @@ I'm a software scholar passionate about making contributions to open source more
 
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/vb0004"><img align="left" width="250" height="150" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></a>
+<br>
 - Learning in public on <a href="https://vb0004.github.io">vb0004.github.io</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/vb0004"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/febry-ambar-panuntun-61a88461/">LinkedIn</a> 💼
