@@ -31,4 +31,6 @@ I'm a software scholar passionate about making contributions to open source more
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Febry%20Ambar%20Panuntun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/febry-ambar-panuntun-61a88461/)](https://www.linkedin.com/in/febry-ambar-panuntun-61a88461)
-[![Twitter Badge](https://img.shields.io/badge/-@VB_Illustrator-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/VB_Illustrator)](https://twitter.com/VB_Illustrator) 
+[![Twitter Badge](https://img.shields.io/badge/-@VB_Illustrator-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/VB_Illustrator)](https://twitter.com/VB_Illustrator)
+[![Facebook Badge](https://img.shields.io/badge/-@vebri3-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/vebri3)](https://www.facebook.com/vebri3)
+[![Instagram Badge](https://img.shields.io/badge/-@vb_illustrator-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/vb_illustrator/)](https://www.instagram.com/vb_illustrator/)
