@@ -1,6 +1,6 @@
 # Hi, I'm Febry Ambar Panuntun 👋🏾 👩🏾‍💻
 
-<img src="https://raw.githubusercontent.com/vb0004/vb0004/master/gh-header-image-cropped.png" alt="banner that says Febry Ambar Panuntun Powell - software engineer">
+<img src="https://raw.githubusercontent.com/vb0004/vb0004/master/game-off-2021.gif" alt="banner that says Febry Ambar Panuntun Powell - software engineer">
 I'm a software scholar passionate about making contributions to open source more approachable, creating technology to improve people, and building community. Some of the technologies I like include VueJS, Jamstack (JavaScript, API + Markup) and GraphQL.
 
 
