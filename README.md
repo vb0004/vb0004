@@ -8,6 +8,11 @@ I'm a software scholar passionate about making contributions to open source more
 - Learning in public on <a href="https://vb0004.github.io">vb0004.github.io</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/vb0004"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/febry-ambar-panuntun-61a88461/">LinkedIn</a> 💼
+- :computer: I am currently working at the Pekalongan State Islamic Institute
+- :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
+- :rocket: Always ready to collaborate for Dev Experiments
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking
 <br>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
