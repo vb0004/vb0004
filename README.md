@@ -27,3 +27,7 @@ I'm a software scholar passionate about making contributions to open source more
 	<a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
 	<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
+<br>
+<h2 align="left">:heart: Let's get connected:</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Febry%20Ambar%20Panuntun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/febry-ambar-panuntun-61a88461/)]
